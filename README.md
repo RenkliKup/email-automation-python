@@ -1,3 +1,3 @@
 # email-automation-python
 
-[interface](img/interface.png)
+![interface](img/interface.png)
